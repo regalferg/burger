@@ -1,7 +1,7 @@
 li {
     padding: 5px;
     margin: 5px;
-    background: #faebd7;
+    /* background: #faebd7; */
   }
   
   .label {
@@ -18,3 +18,16 @@ li {
     margin-bottom: 5px;
   }
   
+  .center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 350px;
+ }
+ h1{
+   text-align:center;
+ }
+
+ body{
+   background-color: rgba(255, 68, 0, 0.733);
+ }
