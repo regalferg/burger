@@ -7,4 +7,4 @@
 		- node server.js
 
 *Burger App:*
-![Image of burger app](https://github.com/regalferg/burger/blob/master/images/burgerapp.PNG)
+![Image of burger app](https://github.com/regalferg/burger/blob/master/burgerapp.PNG)
