@@ -2,7 +2,7 @@
 ## Instructions
 	- To Install Packages:
 		- npm install
-		- Copy contents of newseed.sql to your preferred database
+		- Copy contents of schema.sql and seeds.sql to your preferred database.
 	-To Run Burger App:
 		- node server.js
 
